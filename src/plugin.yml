@@ -1,0 +1,8 @@
+name: SimpleKick
+author: VorschlagsCoding
+version: 1.0
+
+main: me.vorschlagscoding.simplekick.SimpleKick
+
+commands:
+  kick:
